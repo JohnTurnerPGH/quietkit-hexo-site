@@ -30,7 +30,7 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: /img/quietkit-fav-icon.png
 
 # Social Accounts
 twitter_url: https://twitter.com/QuietKitApp

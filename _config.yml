@@ -79,6 +79,9 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/JohnTurnerPGH/quietkit-hexo-site
+  branch: master
+  message:
 
 exclude_generator:
 - home

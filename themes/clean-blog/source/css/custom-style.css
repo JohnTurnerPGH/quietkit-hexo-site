@@ -36,6 +36,17 @@
 }
 
 
+
+/* removing Lora font */
+
+.serif,
+body,
+.intro-header .post-heading .meta {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+
 /* media queries */
 
 @media only screen and (min-width: 768px) {

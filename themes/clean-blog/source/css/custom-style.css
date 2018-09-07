@@ -35,9 +35,10 @@
 	.navbar {
 	background-color: #333;
 	}
+}
+
+@media only screen and (max-width: 768px) {
 	.navbar-custom .nav li a {
 		font-weight: 500;
 	}
 }
-
-

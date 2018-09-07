@@ -1,0 +1,40 @@
+
+/* My custom CSS */
+
+.navbar-custom .nav li a {
+	text-transform: none;
+	font-weight: 300;
+	/* font-size: 1.3rem; */
+}
+
+.navbar-custom .navbar-brand {
+	font-weight: 700;
+}
+
+.intro-header {
+	margin-bottom: 0;
+}
+
+.post-heading {
+	text-align: center;
+}
+
+.center-all-div {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.blue-highlight {
+	background-color: #2980b9;
+    margin: 80px 0 20px 0;
+    padding: 20px;
+    color: #fff;
+}
+
+@media only screen and (min-width: 768px) {
+	.navbar {
+	background-color: #333;
+	}
+}
+
+

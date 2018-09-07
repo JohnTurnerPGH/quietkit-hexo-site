@@ -78,7 +78,7 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
 
 exclude_generator:
 - home

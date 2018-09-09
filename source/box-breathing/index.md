@@ -2,6 +2,7 @@
 title: Box Breathing
 date: 2018-08-29 19:00:47
 cover: /img/box-breathing-preview-image-v01.jpg
+share_cover: /img/box-breathing-preview-image-v01.jpg
 titleTag: Box Breathing (the Navy SEAL breathing technique) from QuietKit
 description: Use this Navy SEAL breathing technique, known as box breathing, to calm down quickly and easily, no matter where you are.
 ---

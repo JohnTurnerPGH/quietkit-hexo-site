@@ -3,6 +3,7 @@ title: Guided Meditation for Beginners (for free) from QuietKit
 date: 2018-08-29 18:52:57
 description: Learn to decrease stress and increase focus with our simple guided meditation for beginners (for free).
 titleTag: Guided meditation for beginners (for free) from QuietKit
+share_cover: /img/main-image-home-temp-001-3.jpg
 ---
 
 <div class="center-all-div">

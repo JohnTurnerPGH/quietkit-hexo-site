@@ -89,3 +89,8 @@ exclude_generator:
 sitemap:
     path: sitemap.xml
 
+# Include redirects file
+include:
+  - _redirects
+
+

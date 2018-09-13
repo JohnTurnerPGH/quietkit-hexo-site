@@ -28,5 +28,5 @@ Use this image to help you keep time! :)
 
 That's it!
 
-Repeat for as many times as you need to calm down.
+Repeat for as many times as you need to calm down  :)
 

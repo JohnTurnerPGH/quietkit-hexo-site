@@ -105,8 +105,7 @@ Your browser does not support the audio element.
 </div>
 
 
-
-<h2 id="learn-about" style="margin-bottom: 30px;" class="blue-highlight">Quick Meditation Guide:</h2>
+<strong><h2 id="learn-about" style="margin-bottom: 30px;" class="blue-highlight">Quick Meditation Guide:</h2></strong>
 
 Even when you know how beneficial meditation can be for you, and that you should begin meditating right away, it can be a little overwhelming to get started.
 

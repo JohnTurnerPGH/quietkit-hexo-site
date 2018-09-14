@@ -43,7 +43,8 @@ Repeat for as many times as you need to calm down.
 
 </div>
 
-Have a little more time, or have the ability to listen to audio?
+*Have trouble falling asleep?  Want a technique designed just for that?*
 
-Try our <a href="/">guided meditation for beginners</a> to help deepen your meditation and mindfulness habit! :)
+Try the <a href="/img/4-7-8-v02.gif">4-7-8 technique</a>.  Just breathe in for 4 seconds, hold for 7 seconds, exhale for 8 seconds, and repeat as needed!  :)
+
 

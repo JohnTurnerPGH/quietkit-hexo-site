@@ -67,8 +67,6 @@ Your browser does not support the audio element.
 
 <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//quietkit.com/schools/&title=Meditation%20in%20Schools%3A%20A%20how-to%20guide%20from%20QuietKit&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
 
-<br>
-
 </div>
 
 

@@ -73,7 +73,7 @@ Your browser does not support the audio element.
 
 
 
-<h2 id="learn-about">Quick Summary:</h2>
+<strong><h2 id="learn-about" class="blue-highlight">Quick Summary:</h2></strong>
 
 Meditation has numerous benefits for those who practice it from decreasing stress to increasing focus and it can be extra beneficial in a classroom setting.  But many of the existing resources for meditation in the classroom are too expensive to implement and have a steep learning curve.
 

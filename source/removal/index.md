@@ -15,10 +15,6 @@ sitemap: false
 
 Box breathing is a technique used to calm yourself down with a simple 4 second rotation of breathing in, holding your breath, breathing out, holding your breath, and repeating.
 
-Also know as Navy SEAL breathing technique, or tactical breathing, it's a surprisingly simple and effective way to help regain calm and control of your thoughts when under stress.
-
-A perfect visual meditation for when you can't listen to audio, or just need a quick second to refocus.
-
 Use this image to help you keep time! :)
 
 **Here are the directions**:

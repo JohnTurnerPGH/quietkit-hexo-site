@@ -3,7 +3,7 @@
 
 /* testing Inter UI font */
 
-@import url('https://rsms.me/inter/inter-ui.css');
+/*@import url('https://rsms.me/inter/inter-ui.css');
 .serif,
 body,
 .intro-header .post-heading .meta {
@@ -24,7 +24,7 @@ h6,
 .pager li > a,
 .pager li > span {
   font-family: 'Inter UI', sans-serif;
-}
+}*/
 
 
 
@@ -70,12 +70,12 @@ h6,
 
 /* removing Lora font */
 
-/*.serif,
+.serif,
 body,
 .intro-header .post-heading .meta {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-*/
+
 
 
 /* media queries */
@@ -91,3 +91,5 @@ body,
 		font-weight: 500;
 	}
 }
+
+

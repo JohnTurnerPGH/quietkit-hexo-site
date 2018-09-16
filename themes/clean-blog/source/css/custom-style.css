@@ -17,6 +17,9 @@
 
 .post-heading {
 	text-align: center;
+}
+
+.post-heading h1 {
 	background-color: rgba(191,191,191,.3);
 	padding: 10px;
 }

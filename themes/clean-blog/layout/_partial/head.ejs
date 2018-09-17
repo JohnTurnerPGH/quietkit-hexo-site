@@ -8,7 +8,7 @@
     <link rel="canonical" href="<%- url_for(page.path).replace(/index\.html$/, '') %>">
 
     <!-- meta noindex tag -->
-    <% if (page.metaNoIndex) { %>
+    <% if (page.metaNoIndex || page.archive) { %>
         <meta name="robots" content="noindex, nofollow" />
     <% } %>
 

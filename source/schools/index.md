@@ -61,11 +61,11 @@ Your browser does not support the audio element.
 
 <em>Share this resource with others!</em>
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//quietkit.com/schools/" class="btn btn-danger" role="button" style="display:inline-block;" target="_blank">Share on Facebook</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//quietkit.com/schools/" class="btn btn-danger" role="button" style="display:inline-block;" target="_blank">Share on Facebook</a>
 
-<a href="http://twitter.com/intent/tweet?text=Bring%20meditation%20into%20the%20classroom%20with%20this%20free%20guide%20from%20%40QuietKitApp%20http%3A%2F%2Fquietkit.com%2Fschools%2F" class="btn btn-danger" role="button" target="_blank">Share on Twitter</a>
+<a href="http://twitter.com/intent/tweet?text=Bring%20meditation%20into%20the%20classroom%20with%20this%20free%20guide%20from%20%40QuietKitApp%20https%3A%2F%2Fquietkit.com%2Fschools%2F" class="btn btn-danger" role="button" target="_blank">Share on Twitter</a>
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//quietkit.com/schools/&title=Meditation%20in%20Schools%3A%20A%20how-to%20guide%20from%20QuietKit&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//quietkit.com/schools/&title=Meditation%20in%20Schools%3A%20A%20how-to%20guide%20from%20QuietKit&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
 
 </div>
 

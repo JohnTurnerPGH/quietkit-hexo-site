@@ -97,11 +97,11 @@ Your browser does not support the audio element.
 
 *Share QuietKit with others!*
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//quietkit.com/" class="btn btn-danger" role="button" target="_blank">Share on Facebook</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//quietkit.com/" class="btn btn-danger" role="button" target="_blank">Share on Facebook</a>
 
-<a href="http://twitter.com/intent/tweet?text=Stressed%3F%20Start%20a%20%23meditation%20and%20%23mindfulness%20habit%20with%20QuietKit%20(for%20free)%20via%20%40QuietKitApp%20http%3A%2F%2Fquietkit.com%2F" class="btn btn-danger" role="button" target="_blank">Share on Twitter</a>
+<a href="http://twitter.com/intent/tweet?text=Stressed%3F%20Start%20a%20%23meditation%20and%20%23mindfulness%20habit%20with%20QuietKit%20(for%20free)%20via%20%40QuietKitApp%20https%3A%2F%2Fquietkit.com%2F" class="btn btn-danger" role="button" target="_blank">Share on Twitter</a>
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//quietkit.com/&title=QuietKit%3A%20Guided%20meditation%20for%20beginners%20(for%20free)&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//quietkit.com/&title=QuietKit%3A%20Guided%20meditation%20for%20beginners%20(for%20free)&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
 </div>
 
 

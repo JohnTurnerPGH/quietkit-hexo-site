@@ -35,11 +35,11 @@ Repeat for as many times as you need to calm down.
 <div class="center-all-div">
 **Share with others!**
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//quietkit.com/box-breathing/" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on Facebook</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//quietkit.com/box-breathing/" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on Facebook</a>
 
-<a href="http://twitter.com/intent/tweet?text=Box%20Breathing%20(the%20Navy%20SEAL%20breathing%20technique)%20from%20%40QuietKitApp%20http%3A%2F%2Fquietkit.com%2Fbox-breathing%2F" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on Twitter</a>
+<a href="http://twitter.com/intent/tweet?text=Box%20Breathing%20(the%20Navy%20SEAL%20breathing%20technique)%20from%20%40QuietKitApp%20https%3A%2F%2Fquietkit.com%2Fbox-breathing%2F" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on Twitter</a>
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//quietkit.com/box-breathing/&title=Box%20Breathing%20(the%20Navy%20SEAL%20breathing%20technique)%20from%20QuietKit&summary=&source=" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on LinkedIn</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//quietkit.com/box-breathing/&title=Box%20Breathing%20(the%20Navy%20SEAL%20breathing%20technique)%20from%20QuietKit&summary=&source=" class="btn btn-danger" role="button" target="_blank" style="display:inline-block;">Share on LinkedIn</a>
 
 </div>
 

@@ -37,6 +37,10 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 
 
 # image redirects
+/wp-content/uploads/box-breathing-4x-v01.gif	/img/box-breathing-4x-v03.gif
+/wp-content/uploads/box-breathing-4x-v03.gif	/img/box-breathing-4x-v03.gif
+/wp-content/uploads/4-7-8-v02.gif	/img/4-7-8-v02.gif
+/wp-content/uploads/falling-panda-small.jpg	/img/falling-panda-small.jpg
 
 
 

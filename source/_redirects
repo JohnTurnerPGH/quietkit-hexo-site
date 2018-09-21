@@ -32,6 +32,15 @@
 /ZQiPO/hpRTO/	/
 /box-breathin	/box-breathing/
 /box-brething	/box-breathing/
+/h/4891437.html	/
+/null	/
+
+
+
+
+
+# netlify subdomain redirect
+
 https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 
 

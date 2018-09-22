@@ -93,4 +93,10 @@ sitemap:
 include:
   - _redirects
 
+html_minifier:
+  exclude: 
+  collapseWhitespace: true
+  removeComments: true
+
+
 

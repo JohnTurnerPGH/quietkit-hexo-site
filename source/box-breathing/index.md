@@ -8,7 +8,7 @@ description: Use this Navy SEAL breathing technique, known as box breathing, to 
 layout: no-header
 ---
 
-<div class="center-all-div" style="margin-top: 100px;"><h1>Box Breathing</h1>**Breathe in sync with this:**
+<div class="center-all-div" style="margin-top: 90px;"><h1>Box Breathing</h1>**Breathe in sync with this:**
 
 <img src="/img/box-breathing-4x-v03.gif" alt="Box Breathing (the Navy SEAL breathing technique) image">
 

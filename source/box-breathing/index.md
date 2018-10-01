@@ -43,9 +43,9 @@ Repeat for as many times as you need to calm down.
 
 </div>
 
-**Have trouble falling asleep?  Want a technique designed just for that?**
+<h2>Have trouble falling asleep?  Want a technique designed just for that?</h2>
 
-Try the <a href="/img/4-7-8-v02.gif">4-7-8 technique</a>.
+<a href="/img/4-7-8-v02.gif">4-7-8 technique</a> is worth trying!
 
 Just breathe in for 4 seconds, hold for 7 seconds, exhale for 8 seconds, and repeat as needed!  :)
 

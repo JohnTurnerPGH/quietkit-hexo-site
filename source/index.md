@@ -11,7 +11,7 @@ share_cover: /img/main-image-home-temp-001-3.jpg
 
 Choose your meditation time below:*
 
-<a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes</button></a>
+<a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a>
 <div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://d2vfwl0pn5wco6.cloudfront.net/02-minutes-v04-128.mp3" type="audio/mpeg">
@@ -24,7 +24,7 @@ Your browser does not support the audio element.
 
 
 
-<a href="#04minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">4 minutes</button></a>
+<a href="#04minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">4 minutes (guided)</button></a>
 <div id="04minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://d2vfwl0pn5wco6.cloudfront.net/04-minutes-v02-128.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Your browser does not support the audio element.
 
 
 
-<a href="#06minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">6 minutes</button></a>
+<a href="#06minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">6 minutes (guided)</button></a>
 <div id="06minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://d2vfwl0pn5wco6.cloudfront.net/06-minutes-v05-128.mp3" type="audio/mpeg">
@@ -50,7 +50,7 @@ Your browser does not support the audio element.
 
 
 
-<a href="#08minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">8 minutes</button></a>
+<a href="#08minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">8 minutes (guided)</button></a>
 <div id="08minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://d2vfwl0pn5wco6.cloudfront.net/08-minutes-v03-1-128.mp3" type="audio/mpeg">
@@ -63,7 +63,7 @@ Your browser does not support the audio element.
 
 
 
-<a href="#10minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">10 minutes</button></a>
+<a href="#10minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">10 minutes (guided)</button></a>
 <div id="10minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://d2vfwl0pn5wco6.cloudfront.net/10-minutes-v01-128.mp3" type="audio/mpeg">

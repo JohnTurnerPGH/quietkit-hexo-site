@@ -1,11 +1,18 @@
 ---
-title: Remove Stress Easily
-titleTag: Remove Stress Easily with QuietKit
+title: Removal
+titleTag: Removal
 date: 2018-09-13 14:12:46
 metaNoIndex: true
 sitemap: false
 ---
 
+Nothing to see here!
+
+Move along!  :)
+
+
+
+<!-- 
 <div class="center-all-div">
 **Breathe in sync with this:**
 
@@ -26,5 +33,5 @@ Use this image to help you keep time! :)
 That's it!
 
 Repeat for as many times as you need to calm down  :)
-
+ -->
 

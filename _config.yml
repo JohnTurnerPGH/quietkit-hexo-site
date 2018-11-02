@@ -50,9 +50,18 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 30
+  per_page: 50
   order_by: -date
   
+archive_generator:
+  per_page: 50
+  yearly: false
+  monthly: false
+  daily: false
+  order_by: -date
+
+
+
 # Category & Tag
 default_category: uncategorized
 category_map:

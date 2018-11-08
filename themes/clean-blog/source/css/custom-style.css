@@ -4,7 +4,7 @@
 .navbar-custom .nav li a {
 	text-transform: none;
 	font-weight: 400;
-	/*font-weight: 300;*/
+	/* font-weight: 300; */
 	/* font-size: 1.3rem; */
 }
 
@@ -42,6 +42,10 @@
 	text-transform: none;
 	font-weight: normal;
 	border-radius: 12px;
+}
+
+.pointer-css {
+	cursor: pointer !important;
 }
 
 

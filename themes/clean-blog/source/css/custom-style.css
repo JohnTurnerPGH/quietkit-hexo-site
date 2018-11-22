@@ -68,16 +68,16 @@ body,
 	background-color: rgba(0,0,0,.5);
 	}
 
-	.intro-header .post-heading h1 {
-  font-size: 30px;
-	}
-
 }
 
 @media only screen and (max-width: 768px) {
 
 	.navbar-custom .nav li a {
 		font-weight: 500;
+	}
+
+	.intro-header .post-heading h1 {
+  font-size: 30px;
 	}
 
 }

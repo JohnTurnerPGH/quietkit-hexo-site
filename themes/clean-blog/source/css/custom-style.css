@@ -80,6 +80,10 @@ body,
   font-size: 28px;
 	}
 
+	.intro-header .post-heading {
+		padding: 75px 0 25px;
+	}
+
 }
 
 

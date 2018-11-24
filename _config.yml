@@ -111,7 +111,7 @@ include:
 offline:
   maximumFileSizeToCacheInBytes: 5242880
   staticFileGlobs:
-    - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
+    - public/**/*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
   stripPrefix: public
   verbose: true
 

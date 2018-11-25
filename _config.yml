@@ -111,7 +111,7 @@ include:
 offline:
   maximumFileSizeToCacheInBytes: 5242880
   staticFileGlobs: 
-    - public/**/!(404|blog|hello-world|old-open-sans|README|333333|4-7-8-v02|808080|john-turner-headshot-400|falling-panda-small|home-page-bg-image-full-size|removal)*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
+    - public/**/!(404|blog|hello-world|old-open-sans|README|333333|4-7-8-v02|808080|john-turner-headshot-400|falling-panda-small|home-page-bg-image-full-size|removal|red-school-door-full-size)*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
   stripPrefix: public
   verbose: true
 

@@ -112,7 +112,9 @@ offline:
   maximumFileSizeToCacheInBytes: 5242880
   staticFileGlobs: 
     - public/**/*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
-  ignoreUrlParametersMatching: public/404.html
+  ignoreUrlParametersMatching: 
+    - 'public/404.html'
+    - 'public/2018/11/25/hello-world/index.html'
   stripPrefix: public
   verbose: true
 

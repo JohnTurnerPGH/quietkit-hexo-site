@@ -111,7 +111,7 @@ include:
 offline:
   maximumFileSizeToCacheInBytes: 5242880
   staticFileGlobs: 
-    - public/!(removal|blog|hello-world)/**/!(404|README|333333|4-7-8-v02|808080|john-turner-headshot-400|falling-panda-small|home-page-bg-image-full-size|red-school-door-full-size|road-curve-bend-rainy|road-curve-rainy-smaller|ocean-sunrise-3-lq-flip|about-bg|contact-bg|home-bg|main-image-home-temp-001-3|box-breathing-preview-image-v01|box-breathing-preview-image-v02|red-school-door-preview-1|red-school-door-preview-2)*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
+    - public/!(removal|blog|hello-world|icons)/**/!(404|README|333333|4-7-8-v02|808080|john-turner-headshot-400|falling-panda-small|home-page-bg-image-full-size|red-school-door-full-size|road-curve-bend-rainy|road-curve-rainy-smaller|ocean-sunrise-3-lq-flip|about-bg|contact-bg|home-bg|main-image-home-temp-001-3|box-breathing-preview-image-v01|box-breathing-preview-image-v02|red-school-door-preview-1|red-school-door-preview-2)*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
   stripPrefix: public
   verbose: true
 

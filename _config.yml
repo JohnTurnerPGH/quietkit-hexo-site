@@ -105,7 +105,7 @@ include:
 # hexo-yam settings
 neat_enable: true
 neat_html:
-  enable: false
+  enable: true
 neat_css:
   enable: false
 neat_js:

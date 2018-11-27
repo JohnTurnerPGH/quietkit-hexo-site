@@ -102,10 +102,19 @@ sitemap:
 include:
   - _redirects
 
-# html_minifier:
-#  exclude: 
-#  collapseWhitespace: true
-#  removeComments: true
+# hexo-yam settings
+neat_enable: true
+neat_html:
+  enable: true
+neat_css:
+  enable: false
+neat_js:
+  enable: false
+neat_gzip:
+  enable: false
+neat_brotli:
+  enable: false
+
 
 # offline config passed to sw-precache.
 offline:

@@ -105,7 +105,7 @@ include:
 # hexo-yam settings
 neat_enable: true
 neat_html:
-  enable: true
+  enable: false
 neat_css:
   enable: false
 neat_js:
@@ -114,6 +114,7 @@ neat_gzip:
   enable: false
 neat_brotli:
   enable: false
+
 
 
 # offline config passed to sw-precache.

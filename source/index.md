@@ -9,7 +9,7 @@ share_cover: /img/main-image-home-temp-001-3.jpg
 <div class="center-all-div">
 *Decrease stress and increase focus with our simple guided meditation for beginners.
 
-Choose your meditation time below:*
+Choose your time below:*
 
 <a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a>
 <div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">

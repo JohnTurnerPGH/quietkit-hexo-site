@@ -11,7 +11,7 @@ metaNoIndex:
 <div class="center-all-div">
 *Bringing meditation into the classroom, helping to decrease stress and increasing focus - all for free!
 
-Choose your meditation option below:*
+Choose your option below:*
 
 <a href="#guidedbackground" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute guided (with background)</button></a>
 <div id="guidedbackground" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">

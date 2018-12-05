@@ -278,7 +278,7 @@ It made me wish I had this tool when I was 20.  Or 15.  Or 5.
 
 <strong>Something this powerful should be available for free to everyone in the world. So I built it out and released it as QuietKit.</strong>
 
-Now I'm on a mission to help everyone on the planet gain the same benefits from meditation that I gained.
+Now I'm on a mission to help everyone on the planet gain the same benefits from meditation that I gained :)
 
 <em>- John Turner, creator of <a href="#">QuietKit</a></em>
 

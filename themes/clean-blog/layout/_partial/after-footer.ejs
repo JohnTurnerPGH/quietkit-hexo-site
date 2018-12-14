@@ -8,6 +8,19 @@
 <!-- Gallery -->
 <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/featherlight/1.3.5/featherlight.min.js" type="text/javascript" charset="utf-8"></script> -->
 
+
+
+<!-- Include quicklink from theme js folder -->
+<script src="/js/quicklink.js"></script>
+<!-- Initialize (you can do this whenever you want) -->
+<script>
+window.addEventListener('load', () =>{
+   quicklink();
+});
+</script>
+
+
+
 <!-- Disqus Comments -->
 <% if (theme.comments && theme.comments.disqus_shortname){ %>
 <script type="text/javascript">

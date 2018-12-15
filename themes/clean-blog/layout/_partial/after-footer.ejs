@@ -15,7 +15,12 @@
 <!-- Initialize (you can do this whenever you want) -->
 <script>
 window.addEventListener('load', () =>{
-   quicklink();
+   quicklink({
+	  origins: [
+	    // add mine
+	    'quietkit.com'
+	  ]
+	});
 });
 </script>
 

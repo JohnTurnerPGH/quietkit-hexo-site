@@ -16,6 +16,7 @@
 <script>
   window.addEventListener('load', () => {
     quicklink({
+      origins: ['quietkit.com'],
       ignores: [uri => !uri.includes('quietkit')]
     });
   });

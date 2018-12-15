@@ -16,7 +16,7 @@
 <script>
   window.addEventListener('load', () => {
     quicklink({
-      ignores: [(uri, elem) => elem.hasAttribute('_blank')]
+      ignores: [(uri, elem) => elem.hasAttribute('target')]
     });
   });
 </script>

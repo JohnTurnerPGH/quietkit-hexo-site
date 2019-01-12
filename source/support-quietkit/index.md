@@ -6,11 +6,12 @@ metaNoIndex: true
 
 Add text about how to support QuietKit, by:
 
-* telling others about it
-* writing about it
-* linking to it
-* sharing it on social media
-* and emailing folks who you think it would help
+- telling others about it
+- writing about it
+- linking to it
+- sharing it on social media
+- and emailing folks who you think it would help
 
 We keep costs low so we don't need donations, but very few folks have heard about QuietKit, and that's why we need your help! :)
 
+(will this part show up even with html caching enabled in CF???)

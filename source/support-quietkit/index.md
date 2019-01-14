@@ -22,3 +22,6 @@ And look into this later as a way to edit QK into a PWA:
 
 `https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2`
 
+`https://alexjover.com/blog/how-i-made-a-progressive-web-app-out-of-my-blog/`
+
+

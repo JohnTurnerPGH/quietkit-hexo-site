@@ -1,8 +1,8 @@
 {
   "name": "QuietKit: Guided Meditation For Beginners (for free)",
   "short_name": "QuietKit",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "theme_color": "#333333",
+  "background_color": "#333333",
   "display": "standalone",
   "Scope": "/",
   "start_url": "/",

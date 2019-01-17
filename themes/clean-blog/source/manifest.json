@@ -7,6 +7,8 @@
   "Scope": "/",
   "start_url": "/",
   "lang": "en-US",
+  "description": "Guided meditation for beginners, for free, along with other meditation resources",
+  "dir": "ltr",
   "icons": [
     {
       "src": "/img/icons/icon-72x72.png",

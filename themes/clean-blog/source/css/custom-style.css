@@ -1,58 +1,59 @@
-
 /* My custom CSS */
 
 .navbar-custom .nav li a {
-	text-transform: none;
-	font-weight: 400;
-	/* font-weight: 300; */
-	/* font-size: 1.3rem; */
+  text-transform: none;
+  font-weight: 400;
+  /* font-weight: 300; */
+  /* font-size: 1.3rem; */
 }
 
 .navbar-custom .navbar-brand {
-	font-weight: 700;
+  font-weight: 700;
 }
 
 .intro-header {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .post-heading {
-	text-align: center;
+  text-align: center;
 }
 
 .post-heading h1 {
-	background-color: rgba(0, 0, 0, 0.3);
-	padding: 20px 0;
-	font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 20px 0;
+  font-weight: 700;
 }
 
 .intro-header .post-heading {
-	padding: 100px 0 50px;
+  padding: 100px 0 50px;
 }
 
 .center-all-div {
-	margin: 0 auto;
-	text-align: center;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .blue-highlight {
-	background-color: #2980b9;
-    margin: 80px 0 20px 0;
-    padding: 20px;
-    color: #fff;
+  background-color: #2980b9;
+  margin: 80px 0 20px 0;
+  padding: 20px;
+  color: #fff;
 }
 
 .btn {
-	text-transform: none;
-	font-weight: normal;
-	border-radius: 12px;
+  text-transform: none;
+  font-weight: normal;
+  border-radius: 12px;
 }
 
 .pointer-css {
-	cursor: pointer !important;
+  cursor: pointer !important;
 }
 
-
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+}
 
 /* removing Lora font */
 
@@ -62,34 +63,58 @@ body,
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-
-
 /* media queries */
 
-@media only screen and (min-width: 768px) {
-
-	.navbar {
-	background-color: rgba(0,0,0,.5);
-	}
-
-}
-
 @media only screen and (max-width: 768px) {
+  .navbar-custom .nav li a {
+    font-weight: 500;
+    color: white;
+  }
 
-	.navbar-custom .nav li a {
-		font-weight: 500;
-	}
+  .intro-header .post-heading h1 {
+    font-size: 28px;
+  }
 
-	.intro-header .post-heading h1 {
-  font-size: 28px;
-	}
-
-	.intro-header .post-heading {
-		padding: 65px 0 15px;
-	}
-
+  .intro-header .post-heading {
+    padding: 65px 0 15px;
+  }
 }
 
+@media only screen and (max-width: 767px) {
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    background-color: rgba(0, 0, 0, 0.9);
+  }
 
+  .navbar-custom .navbar-brand {
+    color: white;
+  }
 
+  .navbar-default {
+    border: none;
+  }
 
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border-bottom: 1px solid #e7e7e7;
+  }
+
+  .navbar-default .navbar-brand:focus,
+  .navbar-default .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .navbar-default .navbar-nav > li > a:focus,
+  .navbar-default .navbar-nav > li > a:hover {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #ddd;
+  }
+
+  .navbar-default .navbar-toggle:hover .icon-bar,
+  .navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #888;
+  }
+}

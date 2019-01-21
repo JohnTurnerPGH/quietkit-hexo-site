@@ -1,10 +1,10 @@
 ---
 title: Meditation in Schools (A how-to guide)
+titleTag: 'Meditation in Schools: A how-to guide from QuietKit'
 date: 2018-08-29 19:01:03
 cover: /img/red-school-door-600px-tall.jpg
 share_cover: /img/red-school-door-preview-2.jpg
 description: Bring meditation into your classroom or school, helping to decrease stress and increase focus, all for free, from QuietKit!
-titleTag: Meditation in Schools - A how-to guide from QuietKit
 metaNoIndex:
 ---
 

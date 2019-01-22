@@ -4,7 +4,7 @@
   "theme_color": "#333333",
   "background_color": "#333333",
   "display": "standalone",
-  "Scope": "/",
+  "scope": "/",
   "start_url": "/",
   "lang": "en-US",
   "description": "Guided meditation for beginners, for free, along with other meditation resources",

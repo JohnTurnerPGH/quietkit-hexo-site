@@ -44,7 +44,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -53,15 +53,13 @@ index_generator:
   path: ''
   per_page: 50
   order_by: -date
-  
+
 archive_generator:
   per_page: 50
   yearly: false
   monthly: false
   daily: false
   order_by: -date
-
-
 
 # Category & Tag
 default_category: uncategorized
@@ -94,10 +92,10 @@ deploy:
   message:
 
 exclude_generator:
-- home
+  - home
 
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
 
 # Include redirects file
 include:
@@ -115,19 +113,11 @@ neat_gzip:
   enable: false
 neat_brotli:
   enable: false
-
-
-
 # # offline config passed to sw-precache.
 # offline:
 #   maximumFileSizeToCacheInBytes: 5242880
-#   staticFileGlobs: 
+#   staticFileGlobs:
 #     - public/!(removal|blog|hello-world|2018|font-awesome-files)/**/!(404|README|333333|808080|john-turner-headshot-400|falling-panda-small|home-page-bg-image-full-size|red-school-door-full-size|road-curve-bend-rainy|road-curve-rainy-smaller|ocean-sunrise-3-lq-flip|main-image-home-temp-001-3|box-breathing-preview-image-v01|box-breathing-preview-image-v02|red-school-door-preview-1|red-school-door-preview-2|icon-1|icon-3|icon-7|icon-9|icon-5|old-open-sans|quicklink|intersection-observer)*.{js,html,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2}
 #   stripPrefix: public
 #   verbose: true
-
-
-
-
-
 

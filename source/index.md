@@ -14,7 +14,7 @@ Choose your time below:*
 <a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a>
 <div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://d2vfwl0pn5wco6.cloudfront.net/02-minutes-v04-128.mp3" type="audio/mpeg">
+<source src="https://quietkit.com/audio-files/02-minutes-v04-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -283,4 +283,10 @@ Now I'm on a mission to help everyone on the planet gain the same benefits from 
 <em>- John Turner, creator of <a href="#">QuietKit</a></em>
 
 
+<!-- 
+
+List of mp3 links to original files (in cloudfront)
+
+https://d2vfwl0pn5wco6.cloudfront.net/02-minutes-v04-128.mp3
+-->
 

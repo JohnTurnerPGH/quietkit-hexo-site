@@ -282,11 +282,3 @@ Now I'm on a mission to help everyone on the planet gain the same benefits from 
 
 <em>- John Turner, creator of <a href="#">QuietKit</a></em>
 
-
-<!-- 
-
-List of mp3 links to original files (in cloudfront)
-
-https://d2vfwl0pn5wco6.cloudfront.net/02-minutes-v04-128.mp3
--->
-

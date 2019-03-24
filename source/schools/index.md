@@ -16,7 +16,7 @@ Choose your option below:*
 <a href="#guidedbackground" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute guided (with background)</button></a>
 <div id="guidedbackground" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/01-school-guided-bg-v02.mp3" type="audio/mpeg">
+<source src="https://quietkit.com/audio-files/schools/01-school-guided-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>
@@ -24,7 +24,7 @@ Your browser does not support the audio element.
 <a href="#guidednoback" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute guided (without background)</button></a>
 <div id="guidednoback" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/02-school-guided-no-bg-v01.mp3" type="audio/mpeg">
+<source src="https://quietkit.com/audio-files/schools/02-school-guided-no-bg-v01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -35,7 +35,7 @@ Your browser does not support the audio element.
 <a href="#unguidedbackground" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute unguided (with background)</button></a>
 <div id="unguidedbackground" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/03-school-unguided-bg-v02.mp3" type="audio/mpeg">
+<source src="https://quietkit.com/audio-files/schools/03-school-unguided-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>
@@ -43,7 +43,7 @@ Your browser does not support the audio element.
 <a href="#unguidednoback" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute unguided (without background)</button></a>
 <div id="unguidednoback" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/04-school-unguided-no-bg-v02.mp3" type="audio/mpeg">
+<source src="https://quietkit.com/audio-files/schools/04-school-unguided-no-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 

@@ -123,7 +123,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /ativan-anxiety-medication/	/removal/
 /average-dose-of-xanax/	/removal/
 /azithromycin-250-mg-price/	/removal/
-/azithromycin-3-day-dose-pack/	/removal/
 /azithromycin-rash/	/removal/
 /benzodiazepines-ambien/	/removal/
 /best-natural-viagra-alternative/	/removal/
@@ -173,7 +172,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /cheapest-generic-viagra/	/removal/
 /cialis-30-mg/	/removal/
 /cialis-duration/	/removal/
-/cialis-last-longer/	/removal/
 /cialis-levitra-viagra/	/removal/
 /cialis-viagra-comparison/	/removal/
 /cialis-with-dapoxetine/	/removal/
@@ -327,7 +325,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /prednisolone-prednisone/	/removal/
 /prednisolone-to-prednisone/	/removal/
 /prednisone-and-depression/	/removal/
-/prednisone-dose-pack-side-effects/	/removal/
 /price-of-generic-viagra/	/removal/
 /prices-on-viagra/	/removal/
 /propecia-lawsuits/	/removal/
@@ -400,7 +397,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /valtrex-prescription-online/	/removal/
 /vardenafil-vs-cialis/	/removal/
 /viagra-100mg-online/	/removal/
-/viagra-100mg/	/removal/
 /viagra-50mg/	/removal/
 /viagra-alcohol-interaction/	/removal/
 /viagra-alternatives/	/removal/
@@ -509,7 +505,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /post-accutane/	/removal/
 /where-do-i-get-viagra/	/removal/
 /do-i-need-a-prescription-for-viagra/	/removal/
-/valium-vs-xanax-for-anxiety/	/removal/
 /can-you-get-addicted-to-xanax/	/removal/
 /allergic-reaction-to-tramadol/	/removal/
 /ambien-10mg-reviews/	/removal/
@@ -527,7 +522,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /whats-in-tramadol-50mg/	/removal/
 /when-to-take-viagra-for-best-results/	/removal/
 /xanax-sticks/	/removal/
-/alcohol-and-viagra-safe/	/removal/
 /coupons-for-nexium/	/removal/
 /levitra-samples/	/removal/
 /p039-xanax/	/removal/
@@ -536,11 +530,8 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /viagra-before-and-after-photos/	/removal/
 /phentermine-and-topamax/	/removal/
 /is-tramadol-a-blood-thinner/	/removal/
-/lexapro-withdrawl/	/removal/
-/tramadol-depression/	/removal/
 /viagra-super-active/	/removal/
 /buy-cialis-online-cheap/	/removal/
-/viagra-generic-name/	/removal/
 /buy-viagra-pills/	/removal/
 /h/8077955.html	/removal/
 /h/4891437.html	/removal/
@@ -602,13 +593,16 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /tramadol-facts/	/removal/
 
 
-
-
-
-
-
-
-
+# removing junk urls (temp disabled to try to fix Google indexing issue)
+# /alcohol-and-viagra-safe/	/removal/
+# /azithromycin-3-day-dose-pack/	/removal/
+# /cialis-last-longer/	/removal/
+# /lexapro-withdrawl/	/removal/
+# /prednisone-dose-pack-side-effects/	/removal/
+# /tramadol-depression/	/removal/
+# /valium-vs-xanax-for-anxiety/	/removal/
+# /viagra-100mg/	/removal/
+# /viagra-generic-name/	/removal/
 
 
 

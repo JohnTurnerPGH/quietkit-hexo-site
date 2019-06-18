@@ -55,16 +55,9 @@
 
 
 
-
-
-
-
-
 # netlify subdomain redirect
 
 https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
-
-
 
 
 
@@ -74,8 +67,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /wp-content/uploads/box-breathing-4x-v03.gif	/img/box-breathing-4x-v03.gif
 /wp-content/uploads/4-7-8-v02.gif	/img/4-7-8-v02.gif
 /wp-content/uploads/falling-panda-small.jpg	/img/falling-panda-small.jpg
-
-
 
 
 
@@ -592,21 +583,17 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /tramadol-facts/	/removal/
 
 
+
 # removing junk urls (temp disabled to try to fix Google indexing issue)
-# /alcohol-and-viagra-safe/	/removal/
-# /azithromycin-3-day-dose-pack/	/removal/
-# /cialis-last-longer/	/removal/
-# /lexapro-withdrawl/	/removal/
-# /prednisone-dose-pack-side-effects/	/removal/
-# /tramadol-depression/	/removal/
-# /valium-vs-xanax-for-anxiety/	/removal/
-# /viagra-100mg/	/removal/
-# /viagra-generic-name/	/removal/
-# /when-do-you-take-viagra/	/removal/
-
-
-
-
-
+/alcohol-and-viagra-safe/	/removal/
+/azithromycin-3-day-dose-pack/	/removal/
+/cialis-last-longer/	/removal/
+/lexapro-withdrawl/	/removal/
+/prednisone-dose-pack-side-effects/	/removal/
+/tramadol-depression/	/removal/
+/valium-vs-xanax-for-anxiety/	/removal/
+/viagra-100mg/	/removal/
+/viagra-generic-name/	/removal/
+/when-do-you-take-viagra/	/removal/
 
 

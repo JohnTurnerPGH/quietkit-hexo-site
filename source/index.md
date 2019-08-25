@@ -7,13 +7,13 @@ share_cover: /img/main-image-home-temp-001-3.jpg
 ---
 
 <div class="center-all-div">
-*Decrease stress and increase focus with our simple guided meditation for beginners.
+_Decrease stress and increase focus with our simple guided meditation for beginners._
 
-Choose your time below:*
+_Choose your time below:_
 
-<a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a>
-<div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
+<a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a><div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
+
 <source src="https://cdn.quietkitcdn.com/audio-files/02-minutes-v04-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -22,9 +22,8 @@ Your browser does not support the audio element.
 
 </div>
 
-
-
 <a href="#04minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">4 minutes (guided)</button></a>
+
 <div id="04minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://cdn.quietkitcdn.com/audio-files/04-minutes-v02-128.mp3" type="audio/mpeg">
@@ -35,9 +34,8 @@ Your browser does not support the audio element.
 
 </div>
 
-
-
 <a href="#06minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">6 minutes (guided)</button></a>
+
 <div id="06minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://cdn.quietkitcdn.com/audio-files/06-minutes-v05-128.mp3" type="audio/mpeg">
@@ -48,9 +46,8 @@ Your browser does not support the audio element.
 
 </div>
 
-
-
 <a href="#08minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">8 minutes (guided)</button></a>
+
 <div id="08minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://cdn.quietkitcdn.com/audio-files/08-minutes-v03-1-128.mp3" type="audio/mpeg">
@@ -61,9 +58,8 @@ Your browser does not support the audio element.
 
 </div>
 
-
-
 <a href="#10minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">10 minutes (guided)</button></a>
+
 <div id="10minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://cdn.quietkitcdn.com/audio-files/10-minutes-v01-128.mp3" type="audio/mpeg">
@@ -74,9 +70,8 @@ Your browser does not support the audio element.
 
 </div>
 
-
-
 <a href="#10minutesunguided" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">10 minutes (unguided)</button></a>
+
 <div id="10minutesunguided" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 <source src="https://cdn.quietkitcdn.com/audio-files/10-minutes-unguided-v01-128.mp3" type="audio/mpeg">
@@ -95,15 +90,13 @@ Your browser does not support the audio element.
 
 <div class="center-all-div">
 
-*Share QuietKit with others!*
+_Share QuietKit with others!_
 
 <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//quietkit.com/" class="btn btn-danger" role="button" target="_blank">Share on Facebook</a>
 
 <a href="http://twitter.com/intent/tweet?text=Stressed%3F%20Start%20a%20%23meditation%20and%20%23mindfulness%20habit%20with%20QuietKit%20(for%20free)%20via%20%40QuietKitApp%20https%3A%2F%2Fquietkit.com%2F" class="btn btn-danger" role="button" target="_blank">Share on Twitter</a>
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//quietkit.com/&title=QuietKit%3A%20Guided%20meditation%20for%20beginners%20(for%20free)&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a>
-</div>
-
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//quietkit.com/&title=QuietKit%3A%20Guided%20meditation%20for%20beginners%20(for%20free)&summary=&source=" class="btn btn-danger" role="button" target="_blank">Share on LinkedIn</a></div>
 
 <strong><h2 id="learn-about" style="margin-bottom: 30px;" class="blue-highlight">Quick Meditation Guide:</h2></strong>
 
@@ -112,7 +105,6 @@ Even when you know how beneficial meditation can be for you, and that you should
 To help you with that, I put together this quick and easy guide on how to get started with meditation, how to grow a meditation habit, and why it matters.
 
 It only takes a few minutes to read, and is the perfect thing to read before starting one of the meditations above!
-
 
 <strong>Learn about:</strong>
 <a href="#how-to-meditate">How to meditate for beginners</a>
@@ -124,25 +116,21 @@ It only takes a few minutes to read, and is the perfect thing to read before sta
 <a href="#meditation-for-kids">Meditation for kids</a>
 <a href="#why-i-built-quietkit">Why I built QuietKit</a>
 
-
-
 <strong><h2 id="how-to-meditate" class="blue-highlight">How to meditate for beginners</h2></strong>
 
 QuietKit presents a very simple, direct type of guided meditation for beginners, perfect for anyone getting started: focusing your attention on your breath, and nothing else, as you sit quietly.
 
 <strong>Here's how to start:</strong>
 
-* Find a quiet, comfortable place to sit, with your back upright.
+- Find a quiet, comfortable place to sit, with your back upright.
 
-* Put on headphones (this will help block outside distractions).
+- Put on headphones (this will help block outside distractions).
 
-* Select the meditation length that's ideal for you.
+- Select the meditation length that's ideal for you.
 
-* Press play and close your eyes.
+- Press play and close your eyes.
 
-* Focus your attention on your breath, breathing in and out.
-
-
+- Focus your attention on your breath, breathing in and out.
 
 <strong><h2 id="tips-for-getting-started" class="blue-highlight">Tips for getting started</h2></strong>
 
@@ -160,19 +148,15 @@ But they just accept that it happens from time to time, they don't worry about i
 
 Using the guided meditation for beginners options from QuietKit is a great way to help you regain focus when you lose it, which is why we made them for you :)
 
-
-
 <strong><h2 id="benefits-of-meditation" class="blue-highlight">Benefits of meditation</h2></strong>
 
 The guided meditations from QuietKit offers three main benefits to anyone who uses them:
 
-* <strong>Decreased stress and anxiety</strong>
+- <strong>Decreased stress and anxiety</strong>
 
-* <strong>Increased focus</strong>
+- <strong>Increased focus</strong>
 
-* <strong>Increased mindfulness</strong> (the ability to be aware of what's occurring at any given moment, but being able to choose how to act, as opposed to just reacting)
-
-
+- <strong>Increased mindfulness</strong> (the ability to be aware of what's occurring at any given moment, but being able to choose how to act, as opposed to just reacting)
 
 <strong><h2 id="how-to-approach-meditation" class="blue-highlight">How to approach meditation</h2></strong>
 
@@ -184,41 +168,37 @@ A lot of times meditation is talked about by how long you can do it in one sitti
 
 But there's a lot more to be gained from short meditation sessions done each day.
 
-
-
 <strong><h2 id="building-a-meditation-habit" class="blue-highlight">Building a meditation habit</h2></strong>
 
 <strong>Start small</strong>: instead of trying to jump right into 10 minutes, start with 2.
 
 <strong>Build slowly</strong>: there's no rush, so take your time (we'll give you a simple schedule below).
 
-<strong>Build consistency</strong>: try to meditate every day, in the same place, at the same time.  Meditate at home, before you start your day.  That might mean before going to work, school, running errands, or even before you start a day of relaxation.
+<strong>Build consistency</strong>: try to meditate every day, in the same place, at the same time. Meditate at home, before you start your day. That might mean before going to work, school, running errands, or even before you start a day of relaxation.
 
-But maybe beginning of the day doesn't work for you, and that's completely okay.  What you should look for are natural break points in your day.  Maybe that means taking time right before lunch, or right after getting home from work, or before dinner, or before bed.
+But maybe beginning of the day doesn't work for you, and that's completely okay. What you should look for are natural break points in your day. Maybe that means taking time right before lunch, or right after getting home from work, or before dinner, or before bed.
 
 Play around and experiment to see what context and situation works best for you.
 
-<strong>Every day in small amounts beats large amounts infrequently</strong>: think of it like exercise.  Would you benefit more from working out really hard only one day a year, or from doing a little bit every day?
-
-
+<strong>Every day in small amounts beats large amounts infrequently</strong>: think of it like exercise. Would you benefit more from working out really hard only one day a year, or from doing a little bit every day?
 
 <strong><h2 id="schedule-for-starting" class="blue-highlight">Schedule for starting</h2></strong>
 
 <strong>Here's a schedule you can start with (do a guided meditation for beginners from QuietKit at the start of your day)</strong>:
 
-* <em>Week 1</em> - 2 minute meditation session each day
+- <em>Week 1</em> - 2 minute meditation session each day
 
-* <em>Week 2</em> - 4 minute meditation session each day
+- <em>Week 2</em> - 4 minute meditation session each day
 
-* <em>Week 3</em> - 6 minute meditation session each day
+- <em>Week 3</em> - 6 minute meditation session each day
 
-* <em>Week 4</em> - 8 minute meditation session each day
+- <em>Week 4</em> - 8 minute meditation session each day
 
-* <em>Week 5</em> - 10 minute meditation session each day
+- <em>Week 5</em> - 10 minute meditation session each day
 
 <strong>After week 5</strong>:
 
-* Keep doing a 10 minute meditation session at the beginning of each day, and also do a meditation session at the end of the day (of any length).
+- Keep doing a 10 minute meditation session at the beginning of each day, and also do a meditation session at the end of the day (of any length).
 
 Adding a second meditation session to your day is a great way to provide another "reset" time to your day.
 
@@ -226,33 +206,29 @@ Try doing this second session either when you get home from work, school, errand
 
 The benefits from meditation come from doing it consistently over time, so keep going!
 
-
-
 <strong><h2 id="meditation-for-kids" class="blue-highlight">Meditation for Kids</h2></strong>
 
-<em>Note: want to bring meditation into your school?  Use our free <a href="/schools/">Meditation in Schools</a> resource!</em>
+<em>Note: want to bring meditation into your school? Use our free <a href="/schools/">Meditation in Schools</a> resource!</em>
 
-<strong>A few of the users of QuietKit have said they use it to help their kids meditate.  Here are some quick tips for helping your children develop a meditation habit</strong>:
+<strong>A few of the users of QuietKit have said they use it to help their kids meditate. Here are some quick tips for helping your children develop a meditation habit</strong>:
 
-* <strong>It can work for a child of almost any age.</strong>  As long as they have the ability to sit still, listen, focus on their breath, and understand what is being said in the meditation, then they can learn to meditate.  And there isn't a "too old" phase when they can't benefit from meditation.
+- <strong>It can work for a child of almost any age.</strong> As long as they have the ability to sit still, listen, focus on their breath, and understand what is being said in the meditation, then they can learn to meditate. And there isn't a "too old" phase when they can't benefit from meditation.
 
-* <strong>Explain to them why meditation can be so helpful.</strong>  Telling them to do it "because I said so" or "because it's good for you" won't convince anyone, regardless of age.  Read through this page with them, and explain how meditating can help them deal with stress, learn how to focus (which helps with school and sports), and can help them from having their emotions overwhelm them.
+- <strong>Explain to them why meditation can be so helpful.</strong> Telling them to do it "because I said so" or "because it's good for you" won't convince anyone, regardless of age. Read through this page with them, and explain how meditating can help them deal with stress, learn how to focus (which helps with school and sports), and can help them from having their emotions overwhelm them.
 
-* <strong>Help them make it a daily habit.</strong>  Just like teaching them to brush their teeth, having them meditate daily can do wonders.  Don't even worry about advancing beyond the 2 minute meditation if they aren't interested, but just focus on having them meditate each and every day.
+- <strong>Help them make it a daily habit.</strong> Just like teaching them to brush their teeth, having them meditate daily can do wonders. Don't even worry about advancing beyond the 2 minute meditation if they aren't interested, but just focus on having them meditate each and every day.
 
-* <strong>Meditate with them.</strong>  Just like spending quality time with them, make meditation something you do with them.  Find a time and context, such as before school or at night before they goto bed, when you can make meditation something you do with them.
+- <strong>Meditate with them.</strong> Just like spending quality time with them, make meditation something you do with them. Find a time and context, such as before school or at night before they goto bed, when you can make meditation something you do with them.
 
-* <strong>Meditation is also great for schools.</strong>  Not only can it help students decrease stress and increase focus, but it can also help hardworking teachers working hard in those schools.  Use our <a href="/schools/">Meditation in Schools</a> resource to get started!
+- <strong>Meditation is also great for schools.</strong> Not only can it help students decrease stress and increase focus, but it can also help hardworking teachers working hard in those schools. Use our <a href="/schools/">Meditation in Schools</a> resource to get started!
 
-If you have any tips that we should add to this section, <a href="mailto:john@usersthink.com">send me an email</a> :)
-
-
+If you have any tips that we should add to this section, <a href="mailto:johneturner@gmail.com">send me an email</a> :)
 
 <strong><h2 id="why-i-built-quietkit" class="blue-highlight">Why I built QuietKit</h2></strong>
 
 There seem to be new tools and services to help us with every little thing in life, but there's one thing that isn't being dealt with that we all have a lot of: stress.
 
-That was the problem I found myself facing.  Even when things were going well there was still a lot of stress, and it started getting to me.
+That was the problem I found myself facing. Even when things were going well there was still a lot of stress, and it started getting to me.
 
 <strong>In searching for some way to deal with stress (other than the unhelpful advice of "be less stressed"), I came across meditation.</strong>
 
@@ -274,11 +250,10 @@ Not only did the tool I built work perfectly for a beginner trying to get into m
 
 I couldn't believe, after just a few weeks, how great I felt and how much my meditation tool improved all aspects of my life.
 
-It made me wish I had this tool when I was 20.  Or 15.  Or 5.
+It made me wish I had this tool when I was 20. Or 15. Or 5.
 
 <strong>Something this powerful should be available for free to everyone in the world. So I built it out and released it as QuietKit.</strong>
 
 Now I'm on a mission to help everyone on the planet gain the same benefits from meditation that I gained.
 
 <em>- John Turner, creator of <a href="#">QuietKit</a></em>
-

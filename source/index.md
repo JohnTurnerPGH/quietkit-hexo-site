@@ -7,7 +7,7 @@ share_cover: /img/main-image-home-temp-001-3.jpg
 ---
 
 <div class="center-all-div">
-_Decrease stress and increase focus with our simple guided meditation for beginners._
+<em>Decrease stress and increase focus with our simple guided meditation for beginners.</em>
 
 _Choose your time below:_
 

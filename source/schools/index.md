@@ -9,7 +9,7 @@ metaNoIndex:
 ---
 
 <div class="center-all-div">
-_Bringing meditation into the classroom, helping to decrease stress and increasing focus - all for free!_
+<em>Bringing meditation into the classroom, helping to decrease stress and increasing focus - all for free!</em>
 
 _Choose your option below:_
 

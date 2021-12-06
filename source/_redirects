@@ -69,6 +69,7 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /wp-content/uploads/box-breathing-4x-v03.gif	/img/box-breathing-4x-v03.gif
 /wp-content/uploads/4-7-8-v02.gif	/img/4-7-8-v02.gif
 /wp-content/uploads/falling-panda-small.jpg	/img/falling-panda-small.jpg
+/img/4-6-breathing-temp-image.gif /img/4-6-breathing-image.gif
 
 
 
@@ -583,10 +584,6 @@ https://quietkit-hexo-build.netlify.com/* https://quietkit.com/:splat 301!
 /how-old-to-buy-viagra/	/removal/
 /order-tramadol/	/removal/
 /tramadol-facts/	/removal/
-
-
-
-# removing junk urls (temp disabled to try to fix Google indexing issue)
 /alcohol-and-viagra-safe/	/removal/
 /azithromycin-3-day-dose-pack/	/removal/
 /cialis-last-longer/	/removal/

@@ -20,7 +20,7 @@
 }
 
 .post-heading h1 {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 20px 0;
   font-weight: 700;
 }
@@ -52,7 +52,7 @@
 }
 
 .navbar {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* removing Lora font */
@@ -60,7 +60,7 @@
 .serif,
 body,
 .intro-header .post-heading .meta {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* media queries */

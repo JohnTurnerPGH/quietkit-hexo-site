@@ -23,7 +23,7 @@
 
 <!-- NEW script tag to manually add sw to every page in site -->
 
-<!-- <script>
+<script>
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
       .register("https://quietkit.com/service-worker.js")
@@ -38,7 +38,7 @@
   } else {
     console.log("Service workers are not supported.");
   }
-</script> -->
+</script>
 
 <!-- OLD script tag to manually add sw to every page in site -->
 <!-- <script>'use strict'; 'serviceWorker' in navigator && navigator.serviceWorker.register('https://quietkit.com/service-worker.js').then(function (a) { a.onupdatefound = function () { var b = a.installing; b.onstatechange = function () { switch (b.state) { case 'installed': navigator.serviceWorker.controller ? console.log('New or updated content is available.') : console.log('Content is now available offline!'); break; case 'redundant': console.error('The installing service worker became redundant.'); } } } }).catch(function (a) { console.error('Error during service worker registration:', a) });</script> -->

@@ -60,7 +60,10 @@
 .serif,
 body,
 .intro-header .post-heading .meta {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
+    "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
+    "Helvetica Neue", sans-serif;
 }
 
 /* media queries */

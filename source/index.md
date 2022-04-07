@@ -1,6 +1,6 @@
 ---
 title: Guided Meditation for Beginners (for free) from QuietKit
-titleTag: 'QuietKit: Guided Meditation for Beginners (for free)'
+titleTag: "QuietKit: Guided Meditation for Beginners (for free)"
 date: 2018-08-29 18:52:57
 description: Learn to decrease stress and increase focus with our simple guided meditation for beginners (for free).
 share_cover: /img/main-image-home-temp-001-3.jpg
@@ -14,7 +14,7 @@ _Choose your time below:_
 <a href="#02minutes" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg">2 minutes (guided)</button></a><div id="02minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 
-<source src="https://cdn.quietkitcdn.com/audio-files/02-minutes-v04-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/02-minutes-v04-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 
 <div id="04minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/04-minutes-v02-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/04-minutes-v02-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -38,7 +38,7 @@ Your browser does not support the audio element.
 
 <div id="06minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/06-minutes-v05-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/06-minutes-v05-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -50,7 +50,7 @@ Your browser does not support the audio element.
 
 <div id="08minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/08-minutes-v03-1-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/08-minutes-v03-1-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -62,7 +62,7 @@ Your browser does not support the audio element.
 
 <div id="10minutes" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/10-minutes-v01-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/10-minutes-v01-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -74,7 +74,7 @@ Your browser does not support the audio element.
 
 <div id="10minutesunguided" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/10-minutes-unguided-v01-128.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/10-minutes-unguided-v01-128.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 

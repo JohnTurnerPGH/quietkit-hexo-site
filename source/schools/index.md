@@ -1,6 +1,6 @@
 ---
 title: Meditation in Schools (A how-to guide)
-titleTag: 'Meditation in Schools: A how-to guide from QuietKit'
+titleTag: "Meditation in Schools: A how-to guide from QuietKit"
 date: 2018-08-29 19:01:03
 cover: /img/red-school-door-600px-tall.jpg
 share_cover: /img/red-school-door-preview-2.jpg
@@ -16,7 +16,7 @@ _Choose your option below:_
 <a href="#guidedbackground" data-toggle="collapse"><button type="button" class="btn btn-primary btn-lg" style="white-space: normal;">4 minute guided (with background)</button></a><div id="guidedbackground" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
 
-<source src="https://cdn.quietkitcdn.com/audio-files/schools/01-school-guided-bg-v02.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/01-school-guided-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>
@@ -25,7 +25,7 @@ Your browser does not support the audio element.
 
 <div id="guidednoback" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/schools/02-school-guided-no-bg-v01.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/02-school-guided-no-bg-v01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -37,7 +37,7 @@ Your browser does not support the audio element.
 
 <div id="unguidedbackground" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/schools/03-school-unguided-bg-v02.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/03-school-unguided-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>
@@ -46,7 +46,7 @@ Your browser does not support the audio element.
 
 <div id="unguidednoback" class="collapse" style="margin-bottom: 90px; margin-top: 15px;">
 <audio controls preload="none">
-<source src="https://cdn.quietkitcdn.com/audio-files/schools/04-school-unguided-no-bg-v02.mp3" type="audio/mpeg">
+<source src="https://d2vfwl0pn5wco6.cloudfront.net/schools/04-school-unguided-no-bg-v02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 

@@ -1,5 +1,5 @@
 ---
-title: "4-6 Breathing Technique (start here)"
+title: 4-6 Breathing Technique (start here)
 titleTag: "4-6 Breathing Technique (start here) from QuietKit"
 date: 2022-07-04 15:46:29
 layout: no-header

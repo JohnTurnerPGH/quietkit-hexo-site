@@ -4,6 +4,8 @@ titleTag: "4-6 Breathing Technique (start here) from QuietKit"
 date: 2022-07-04 15:46:29
 layout: no-header
 description: Use the 4-6 breathing technique to help you get started with meditation.
+cover: /img/4-6-breathing-preview-image.jpg
+share_cover: /img/4-6-breathing-preview-image.jpg
 ---
 
 <div class="center-all-div" style="margin-top: 90px;"><h1>4-6 Breathing Technique (start here)</h1>**Breathe in sync with this:**
